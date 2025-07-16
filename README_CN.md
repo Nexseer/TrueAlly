@@ -2,10 +2,10 @@
 
 <img src="pics/logo/TrueAlly.png" width="200" height="200" alt="logo">
 
-# [TrueAlly]()
+# [挚友]()
 
-Untouchable yet became true friends.
+触不到却成挚友
 
-👉 English | [简体中文](README_CN.md)
+👉 [English](./README.md) | 简体中文
 
 </div>
